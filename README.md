@@ -12,6 +12,7 @@
 ## Description
 
 Here is the backend to my ecommerce example platform!
+
 ![Gif](https://media.giphy.com/media/vdpQgerqFaAAQM9hwB/giphy.gif)
 
 ## Technologies
