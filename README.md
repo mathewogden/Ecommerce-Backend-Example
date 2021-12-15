@@ -3,7 +3,6 @@
 ## Table of Contents
 
 - [Description](#Description)
-<!-- - [Deployed Link](#Deployed-Link) -->
 - [Technologies](#Technologies)
 - [Code](#Code)
 - [Gif](#Gif)
@@ -15,13 +14,7 @@
 
 Here is the backend to my ecommerce example platform!
 
-<!-- ## Deployed-Link -->
-<!-- add deployed link in the paranthesis -->
-<!-- - [Click Here]() -->
-
 ## Technologies
-
-<!-- left examples here put edit to put your technologies -->
 
 - [JavaScript](https://www.w3schools.com/js/)
 - [ExpressJs](https://expressjs.com)
@@ -30,8 +23,6 @@ Here is the backend to my ecommerce example platform!
 - [JSONWebToken](https://www.npmjs.com/package/jsonwebtoken)
 
 ## Gif
-
-<!-- path to gif in paranthesis  -->
 
 ![Gif](https://media.giphy.com/media/vdpQgerqFaAAQM9hwB/giphy.gif)
 
@@ -210,8 +201,6 @@ app.use(async (req, res, next) => {
 ## Author
 
 Mathew Ogden
-
-<!-- add linnks to your social media -->
 
 - [GitHub](https://github.com/mathewogden)
 - [linkedIn](https://www.linkedin.com/in/mathew-ogden-b85688220/)
