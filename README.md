@@ -5,7 +5,6 @@
 - [Description](#Description)
 - [Technologies](#Technologies)
 - [Code](#Code)
-- [Gif](#Gif)
 - [Author](#Author)
 - [Credits](#Credits)
 - [License](#License)
@@ -13,6 +12,7 @@
 ## Description
 
 Here is the backend to my ecommerce example platform!
+![Gif](https://media.giphy.com/media/vdpQgerqFaAAQM9hwB/giphy.gif)
 
 ## Technologies
 
@@ -21,10 +21,6 @@ Here is the backend to my ecommerce example platform!
 - [MySQL2](https://www.npmjs.com/package/mysql2)
 - [Sequelize](https://sequelize.org/master/)
 - [JSONWebToken](https://www.npmjs.com/package/jsonwebtoken)
-
-## Gif
-
-![Gif](https://media.giphy.com/media/vdpQgerqFaAAQM9hwB/giphy.gif)
 
 ## Code
 
