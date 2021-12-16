@@ -1,4 +1,4 @@
-# Ecommerce-Backend-Example
+# Ecommerce Backend Example
 
 ## Table of Contents
 
